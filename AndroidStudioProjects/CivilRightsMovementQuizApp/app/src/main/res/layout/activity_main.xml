@@ -51,7 +51,7 @@
                     android:id="@+id/radioQuestion1"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/optionBackground">
+                    android:background="@color/primary_light">
 
                     <RadioButton
                         android:layout_width="wrap_content"
@@ -89,7 +89,7 @@
                     android:id="@+id/radioQuestion2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/optionBackground">
+                    android:background="@color/primary_light">
 
                     <RadioButton
                         android:layout_width="wrap_content"
@@ -125,7 +125,7 @@
                     android:id="@+id/radioQuestion3"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/optionBackground">
+                    android:background="@color/primary_light">
 
                     <RadioButton
                         android:layout_width="wrap_content"
@@ -163,7 +163,7 @@
                     android:id="@+id/radioQuestion4"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/optionBackground"
+                    android:background="@color/primary_light"
 
                     >
 
@@ -203,7 +203,7 @@
                     android:id="@+id/radioQuestion5"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/optionBackground">
+                    android:background="@color/primary_light">
 
                     <RadioButton
                         android:layout_width="wrap_content"
@@ -239,7 +239,7 @@
                     android:id="@+id/radioQuestion6"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/optionBackground">
+                    android:background="@color/primary_light">
 
                     <RadioButton
                         android:layout_width="wrap_content"
@@ -277,7 +277,7 @@
                     android:id="@+id/radioQuestion7"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/optionBackground">
+                    android:background="@color/primary_light">
 
                     <RadioButton
                         android:layout_width="wrap_content"
@@ -315,7 +315,7 @@
                     android:id="@+id/radioQuestion8"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/optionBackground">
+                    android:background="@color/primary_light">
 
                     <RadioButton
                         android:layout_width="wrap_content"
@@ -351,21 +351,21 @@
                     android:id="@+id/CrowtherBailey"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/optionBackground"
+                    android:background="@color/primary_light"
                     android:text="@string/option9.a" />
 
                 <CheckBox
                     android:id="@+id/HueyNewton"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/optionBackground"
+                    android:background="@color/primary_light"
                     android:text="@string/option9.b" />
 
                 <CheckBox
                     android:id="@+id/BobbySeale"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/optionBackground"
+                    android:background="@color/primary_light"
                     android:text="@string/option9.c" />
 
                 <View
@@ -386,7 +386,7 @@
                     android:id="@+id/question10"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/optionBackground"
+                    android:background="@color/primary_light"
                     android:hint="@string/hint"
                     android:inputType="textCapWords" />
 
