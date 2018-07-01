@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Civil Rights Movement Quiz App</string>
+    <string name="instruction">Answer all questions, then click on the \'Submit\' button.</string>
+    <string name="crmRally">Civil Rights Movement Rally</string>
+
+    <string name="question1">1. Whose arrest sparked the Montgomery Bus Boycott in the US?</string>
+    <string name="option1.a">Martin Luther King</string>
+    <string name="option1.b">Dalai Lama</string>
+    <string name="option1.c">Rosa Parks</string>
+
+    <string name="question2">2. A group of civil rights workers who took bus trips around Southern State in 1961 to protest bus segregation are called</string>
+    <string name="option2.a">Bus men</string>
+    <string name="option2.b">Freedom Riders</string>
+    <string name="option2.c">Texan Cowboys</string>
+
+    <string name="question3">3. Who among the following is a leader of the nonviolent civil rights movement fighting for inclusion and equality? </string>
+    <string name="option3.a">TuPac Shakur</string>
+    <string name="option3.b">Ashata Shakur</string>
+    <string name="option3.c">Martin Luther King Jnr.</string>
+
+    <string name="question4">4. What is the name of the Southern US Laws designed to enforce segregation of Blacks from Whites?</string>
+    <string name="option4.a">Jim Crow Laws</string>
+    <string name="option4.b">Jack Declaration</string>
+    <string name="option4.c">Ku Klux Klan Edict</string>
+
+    <string name="question5">5. What is the full meaning of NAACP?</string>
+    <string name="option5.a">National Art of Ailment Control and Protection</string>
+    <string name="option5.b">National Association for the Advancement of Coloured People</string>
+    <string name="option5.c">Natural Act for Artisans in Carlifornia and Philadelphia</string>
+
+    <string name="question6">6. The Black Panther Party was founded in what year?</string>
+    <string name="option6.a">1966</string>
+    <string name="option6.b">1960</string>
+    <string name="option6.c">1900</string>
+
+    <string name="question7">7. Which of these cities is iconic for MLK\'s Struggles?</string>
+    <string name="option7.a">Selma</string>
+    <string name="option7.b">Tulsa</string>
+    <string name="option7.c">China Town</string>
+
+    <string name="question8">8. Where did Malcom X Omowale join the \"Nation of Islam\"?</string>
+    <string name="option8.a">Salem</string>
+    <string name="option8.b">Prison</string>
+    <string name="option8.c">The Underground Railroad</string>
+
+    <string name="question9">9. Which of the following are heroes of the Civil rights struggle? (Select all that applies)</string>
+    <string name="option9.a">Crowther Bailey</string>
+    <string name="option9.b">Huey Newton</string>
+    <string name="option9.c">Bobby Seale</string>
+
+    <string name="question10">10. Whose quote is this? \"I saved a thousand slaves, I would have saved a lot more if only they knew they were slaves!\ (Correct spelling and spacing is important.)"</string>
+    <string name="answer10">Harriet Tubman</string>
+
+    <string name="gradeMe">Submit</string>
+    <string name="reset">Reset</string>
+
+    <string name="hint">Type your answer here</string>
+
+    <string name="title_activity_fullscreen">Quiz App</string>
+    <string name="Startbutton">Click Here to Start Quiz</string>
+    <string name="splashText">Civil Rights Quiz Application</string>
+
+</resources>
